@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/activity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blacklist/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/history/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/praise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unreadmsg/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+2020-11-11 11:12:47.856  INFO 24384 --- [main] c.u.lanhu.galaxy.UserApplicationTests    : Starting UserApplicationTests on DESKTOP-F2AC5IH with PID 24384 (started by jzhao in D:\works\workspaces\lanhu\user)
+2020-11-11 11:12:47.858  INFO 24384 --- [main] c.u.lanhu.galaxy.UserApplicationTests    : No active profile set, falling back to default profiles: default
+2020-11-11 11:12:49.890  INFO 24384 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$59c451aa] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-11 11:12:50.041  INFO 24384 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-11 11:12:50.485  INFO 24384 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-11-11 11:12:50.746  INFO 24384 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-11-11 11:12:52.342  INFO 24384 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-11 11:12:53.436  INFO 24384 --- [main] c.u.lanhu.galaxy.UserApplicationTests    : Started UserApplicationTests in 6.15 seconds (JVM running for 8.595)
+2020-11-11 11:12:54.116  INFO 24384 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-11 11:12:54.119  INFO 24384 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-11-11 11:12:54.154  INFO 24384 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

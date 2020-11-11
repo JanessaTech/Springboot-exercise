@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="user" />
+        <module name="praise" />
+        <module name="collection" />
+        <module name="hotsearch" />
+        <module name="comment" />
+        <module name="message" />
+        <module name="dynamic" />
+        <module name="activity" />
+        <module name="unreadmsg" />
+        <module name="video" />
+        <module name="history" />
+        <module name="blacklist" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="activity" options="-parameters" />
+      <module name="blacklist" options="-parameters" />
+      <module name="collection" options="-parameters" />
+      <module name="comment" options="-parameters" />
+      <module name="dynamic" options="-parameters" />
+      <module name="history" options="-parameters" />
+      <module name="hotsearch" options="-parameters" />
+      <module name="message" options="-parameters" />
+      <module name="praise" options="-parameters" />
+      <module name="unreadmsg" options="-parameters" />
+      <module name="user" options="-parameters" />
+      <module name="video" options="-parameters" />
+    </option>
+  </component>
+</project>
